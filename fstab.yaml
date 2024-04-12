@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1GuUP00AGr60N6GEkie2MjVQHQf0SLWxr
+  /:
+    url: "https://author-p44752-e196089.adobeaemcloud.com/bin/franklin.delivery/fernandezhernan/edsxwalk/main"
+    type: "markup"
+    suffix: ".html"
